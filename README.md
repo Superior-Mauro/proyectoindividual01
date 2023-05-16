@@ -1,10 +1,10 @@
-![Logo soy Henry]([https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png])
+![Logo soy Henry](images/logo-henry-white-lg.png)
 
 <h1 align="center"> PROYECTO INDIVIDUAL 01 </h1>
 
-![Recomendación Peliculas]([https://editor.analyticsvidhya.com/uploads/76889recommender-system-for-movie-recommendation.jpg])
+![Recomendación Peliculas](images/recommender-system-for-movie-recommendation.jpg)
 
-<h2 align="center"> ¡Bienvenidos al primer proyecto individual de la etapa de labs! En esta ocasión, deberán hacer un trabajo situándose en el rol de un Data Engineer. </h2>
+<h2 align="center"> ¡Bienvenidos a mi repositorio con el proyecto de ETL, EDA y modelo de Machine Leaning para recomendar peliculas</h2>
 
 ### Descripción del problema
 
