@@ -39,10 +39,10 @@ Llego la hora de entrenar nuestro modelo de machine learning para armar un siste
 Éste consiste en recomendar películas a los usuarios basándose en películas similares, por lo que se debe encontrar la similitud de puntuación entre esa película y el resto de películas, se ordenarán según el score de similaridad y devolverá una lista de Python con 5 valores, cada uno siendo el string del nombre de las películas con mayor puntaje, en orden descendente. <br>
 > Puede ver nuestro modelo explicado en el archivo llamado "Modelo_part03.ipynb<br>
 
-####Usamos un promedio ponderado entre la columna vote_count y average_vote creando la columna "score"
+Usamos un promedio ponderado entre la columna vote_count y average_vote creando la columna "score"
 Y luego ordenamos el dataframe por la columna "score" para quedarnos con las peliculas más aclamadas
 
-#### Corremos la función para recomendar peliculas
+### Corremos la función para recomendar peliculas
 def recomendacion('titulo'): '''Ingresas un nombre de pelicula y te recomienda las similares en una lista de 5 valores''' return {'lista recomendada': respuesta}
 
-####Proyecto 01 en Render [Link del Render](https://proyecto-individual-mauro.onrender.com/docs)
+### Proyecto 01 en Render [Link del Render](https://proyecto-individual-mauro.onrender.com/docs)
