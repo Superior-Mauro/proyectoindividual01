@@ -40,7 +40,7 @@ Llego la hora de entrenar nuestro modelo de machine learning para armar un siste
 > Puede ver nuestro modelo explicado en el archivo llamado "Modelo_part03.ipynb<br>
 
 Usamos un promedio ponderado entre la columna vote_count y average_vote creando la columna "score"
-Y luego ordenamos el dataframe por la columna "score" para quedarnos con las peliculas más aclamadas
+Y luego ordenamos el dataframe por la columna "score" para quedarnos con las peliculas más aclamadas e hicimos una relación entre peliculas basado en la descripción "overview"
 
 ### Corremos la función para recomendar peliculas
 def recomendacion('titulo'): '''Ingresas un nombre de pelicula y te recomienda las similares en una lista de 5 valores''' return {'lista recomendada': respuesta}
